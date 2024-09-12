@@ -1,0 +1,28 @@
+.para1 {
+  background-color: rgb(245, 170, 182);
+  font-weight: bold;
+}
+
+#id1 {
+  font-size: 36px;
+  color: blue;
+}
+
+.h2one {
+  color: black;
+  background-color: pink;
+}
+
+.font-style {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#id2 {
+  background-color: rgba(92, 234, 92, 0.998);
+  font-weight: bold;
+}
+
+.para2 {
+  font-weight: bold;
+  background-color: pink;
+}
